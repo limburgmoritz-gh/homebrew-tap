@@ -1,8 +1,8 @@
 class Windowwheel < Formula
   desc "Fenster-Layouts per Radmenü für macOS – wie das Waffenrad in GTA"
   homepage "https://github.com/limburgmoritz-gh/windowwheel"
-  url "https://github.com/limburgmoritz-gh/windowwheel/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "afb13e18dbfc3ecc1d15d43d81a74c4cb19cf4b35292acc39fbad04df4eaaabc"
+  url "https://github.com/limburgmoritz-gh/windowwheel/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "1e03a9ba574aaea54fe10cefef64cd3ae8ebbbed35fb552e5a7de810a9ac8cee"
   license "MIT"
 
   depends_on macos: :sonoma
