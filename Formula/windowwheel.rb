@@ -1,5 +1,5 @@
 class Windowwheel < Formula
-  desc "Fenster-Layouts per Radmenü für macOS – wie das Waffenrad in GTA"
+  desc "Arrange macOS windows into predefined layouts with a radial menu"
   homepage "https://github.com/limburgmoritz-gh/windowwheel"
   url "https://github.com/limburgmoritz-gh/windowwheel/archive/refs/tags/v0.2.0.tar.gz"
   sha256 "1e03a9ba574aaea54fe10cefef64cd3ae8ebbbed35fb552e5a7de810a9ac8cee"
