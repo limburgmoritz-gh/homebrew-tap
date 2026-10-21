@@ -1,8 +1,8 @@
 class Windowwheel < Formula
   desc "Arrange macOS windows into predefined layouts with a radial menu"
   homepage "https://github.com/limburgmoritz-gh/windowwheel"
-  url "https://github.com/limburgmoritz-gh/windowwheel/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "1e03a9ba574aaea54fe10cefef64cd3ae8ebbbed35fb552e5a7de810a9ac8cee"
+  url "https://github.com/limburgmoritz-gh/windowwheel/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "62211287083bbd90b8cf9989c32869e033454d1b5bee68eb04ce6d2f03f25b24"
   license "MIT"
 
   depends_on macos: :sonoma
@@ -34,7 +34,7 @@ class Windowwheel < Formula
         2. Bildschirmaufnahme – für die Vorschaubilder, danach einmal:
              brew services restart windowwheel
 
-      Bedienung: ⌥ halten + ⇥ drücken.
+      Usage: hold ⌥ and press ⇥ (configurable in Settings).
     EOS
   end
 
