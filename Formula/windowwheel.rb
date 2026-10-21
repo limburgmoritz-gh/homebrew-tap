@@ -1,8 +1,8 @@
 class Windowwheel < Formula
   desc "Arrange macOS windows into predefined layouts with a radial menu"
   homepage "https://github.com/limburgmoritz-gh/windowwheel"
-  url "https://github.com/limburgmoritz-gh/windowwheel/archive/refs/tags/v0.3.1.tar.gz"
-  sha256 "c2a679ad0d1b0ef290ba895b0756e55e6d3a8e36f066862c15b3c1d2b81e33da"
+  url "https://github.com/limburgmoritz-gh/windowwheel/archive/refs/tags/v0.3.2.tar.gz"
+  sha256 "88e59a5ebe7d9dac58f95e87bac9f76131544b3f7109c7be61306be91550ca5c"
   license "MIT"
 
   depends_on macos: :sonoma
